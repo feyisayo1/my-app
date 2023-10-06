@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sed doloribus qui id tempora minima dolores nihil possimus voluptates obcaecati.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea sed doloribus qui id tempora minima dolores nihil possimus voluptates obcaecati.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "hello baby gyal ",
+      "body": "how da body, i like your inside and your outer  body",
+      "author": "Mario",
+      "id": 4
+    },
+    {
+      "title": "soft life ",
+      "body": "chop soft life cause e get why",
+      "author": "josh",
+      "id": 5
+    }
+  ]
+}
